@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phuocdat10 (Dt)
 - 👀 I’m interested in Artificial intelligence (AI) , Machine Learning (ML)
 - 🌱 I’m currently learning Computer Sciene
-- 💞️ I'm looking for AI Laboratory
+- 💞️ I'm looking for AI, ML Laboratory
 - 📫 Contact me by email: datlam10006@gmail.com
 
 <!---
