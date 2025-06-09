@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phuocdat10 (Dt)
-- 👀 I’m interested in Artificial intelligence (AI) , Machine Learning (ML)
-- 🌱 I’m currently learning Computer Sciene
-- 💞️ I'm looking for AI, ML Laboratory
+- 👀 I’m interested in Artificial intelligence (AI) , Digital Twin for Smart City
+- 🌱 I’m currently learning AI Agent, 3D city ontology (CityGML and IFC domains)
+- 💞️ I'm working for AIDT - Lab as PhD Candidate
 - 📫 Contact me by email: datlam10006@gmail.com
 
 <!---
